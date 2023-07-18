@@ -1,0 +1,16 @@
+/*
+CREATED BY: ARIEL WANG
+CREATE DATE: MM/DD/YYYY
+DESCRIPTION: THIS QUERY DISPLAYS ALL CUSTOMERS FIRSTNAME, LASTNAME, AND EMAIl ADDRESS
+*/
+
+SELECT
+	FirstName AS [Customer First Name ], 
+	LastName  As 'Customer Last Name',
+	Email As EMAIL
+FROM
+	Customer
+ORDER By
+	FirstName ASC,
+	LastName DESC
+LIMIT 10
