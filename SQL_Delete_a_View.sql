@@ -1,0 +1,8 @@
+/*
+CREATED BY: Ariel Wang
+CREATE DATE: MM/DD/YYYY
+DESCRIPTION: Delete a View
+*/
+
+DROP VIEW
+	V_AvgTotal
