@@ -1,0 +1,9 @@
+/*
+CREATED BY: ARIEL WANG
+CREATE DATE: MM/DD/YYYY
+DESCRIPTION: DML | Inserting Data
+*/
+
+INSERT INTO
+	Artist (Name)
+VALUES('Bob Mariey')

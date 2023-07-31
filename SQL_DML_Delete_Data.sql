@@ -1,0 +1,10 @@
+/*
+CREATED BY: ARIEL WANG
+CREATE DATE: MM/DD/YYYY
+DESCRIPTION: DML | Deleting Data
+*/
+
+DELETE FROM
+	Artist
+WHERE
+	ArtistId = 276
